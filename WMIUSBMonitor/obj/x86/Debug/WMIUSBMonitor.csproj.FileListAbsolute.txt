@@ -1,0 +1,5 @@
+C:\fun\WMIUSBMonitor\WMIUSBMonitor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\fun\WMIUSBMonitor\WMIUSBMonitor\bin\Debug\WMIUSBMonitor.exe
+C:\fun\WMIUSBMonitor\WMIUSBMonitor\bin\Debug\WMIUSBMonitor.pdb
+C:\fun\WMIUSBMonitor\WMIUSBMonitor\obj\x86\Debug\WMIUSBMonitor.exe
+C:\fun\WMIUSBMonitor\WMIUSBMonitor\obj\x86\Debug\WMIUSBMonitor.pdb
